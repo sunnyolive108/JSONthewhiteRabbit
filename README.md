@@ -27,4 +27,4 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 
 ## Contribution
    feel free to contribute! Just submit a pull request with your changes.
-- Thank you :)
+- Thank you :) Oliver
