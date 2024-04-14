@@ -26,4 +26,5 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    python jsonfromrabbit.py
 
 ## Contribution
-   feel free to contribute! Thank you :)
+   feel free to contribute! Please fork the repository and submit a pull request with your changes.
+Thank you :)
