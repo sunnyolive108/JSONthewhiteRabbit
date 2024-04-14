@@ -21,10 +21,10 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 
    ```bash
    git clone https://github.com/sunnyolive108/jsonfromrabbits.git
-2. Run the program
+2. Set up a RabbitMQ and host it
+3. Run the program
    ```bash
    python jsonfromrabbits.py
-3. Set up a RabbitMQ and host it
       
 ## Contribution
    feel free to contribute! Just submit a pull request with your changes.
