@@ -24,7 +24,10 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 2. Run the program
    ```bash
    python jsonfromrabbit.py
-
+3. Run the other program
+      ```bash
+   python ImportJSONfromRabbitZ.py
+      
 ## Contribution
    feel free to contribute! Just submit a pull request with your changes.
 - Thank you :) Oliver
