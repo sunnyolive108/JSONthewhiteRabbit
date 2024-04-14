@@ -19,6 +19,8 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 ## Usage
 
 1. Set up a RabbitMQ server
+   ```bash
+   sudo service rabbitmq-server start
 2. Clone the repository:
 
    ```bash
