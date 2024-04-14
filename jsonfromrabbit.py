@@ -3,7 +3,7 @@ import json
 import pika
 
 def interpret_json(error_message, queue_name):
-    # read line as JSON and give me the data
+    # read line as JSON and give me data
     try:
         data = json.loads(error_message)
         if "exception" in data:
@@ -77,7 +77,7 @@ channel = connection.channel()
 
 # Declare the queue
 # Declare the queue with durability first
-queue_name = 'pblnotificationinteractions'
+queue_name = 'THENAMEOFFTHEQUEUE'
 try:
     channel.queue_declare(queue=queue_name, durable=True)
 except pika.exceptions.ChannelClosedByBroker:
