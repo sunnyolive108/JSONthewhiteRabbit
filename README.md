@@ -25,5 +25,5 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    python jsonintorabbit.py
 
-3. Contribution
-   feel free to contribute!
+## Contribution
+   feel free to contribute! Thank you :)
