@@ -1,14 +1,14 @@
 # JSONintoFILEfromRabbit
 
-# this little program shall start to implement these things
+this little program shall start to implement these things
 
-# fetch messages from a RabbitMQ Queue
-# let them be processed and written into a file by def interpret_json
+fetch messages from a RabbitMQ Queue
+et them be processed and written into a file by def interpret_json
 
-# future ideas include 
+future ideas include 
 
-# further automate the handling process
-# further process the data into another program
-# feed data into a statistics & documentation program
-# interface of some kind to put in host and port information
-# . . .
+further automate the handling process
+further process the data into another program
+feed data into a statistics & documentation program
+interface of some kind to put in host and port information
+. . .
