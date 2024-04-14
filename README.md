@@ -21,5 +21,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 
    ```bash
    git clone https://github.com/sunnyolive108/jsonfromrabbit.git
-python JSONintoFILEfromRabbit.py
+2. Run the program
+   ´´´bash
+   python JSONintoFILEfromRabbit.py
   
