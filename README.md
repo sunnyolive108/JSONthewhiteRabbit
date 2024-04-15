@@ -23,7 +23,10 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 
    ```bash
    git clone https://github.com/sunnyolive108/FollowTheWhiteRabbit.git
-3. Run the program
+3. install the necessary module
+   ```bash
+   pip install pika
+4. navigate to the repository on your machine & run the program
    ```bash
    python jsonfromrabbits.py
       
