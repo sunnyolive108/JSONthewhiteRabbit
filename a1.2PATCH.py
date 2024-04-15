@@ -58,7 +58,7 @@ def interpret_json(error_message, queue_name):
 
 # establish a connection to a RabbitMQ server
 credentials = pika.PlainCredentials('guest', 'guest')
-parameters = pika.ConnectionParameters('localhost', credentials=credentials) # virtual_host='BorC3', credentials=credentials)
+parameters = pika.ConnectionParameters('localhost', credentials=credentials) # virtual_host='XYZ', 
 connection = pika.BlockingConnection(parameters)
 channel = connection.channel()
 
