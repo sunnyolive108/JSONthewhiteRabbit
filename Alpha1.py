@@ -31,7 +31,7 @@ def interpret_json(error_message, queue_name):
             for key, value in data_lower.items():
                 print(f"{key}: {value}")
             print("\n")
-            print("-" * 51)
+            print("-" * 42)
             print("\n")
 
             for key in data_lower:
