@@ -23,8 +23,8 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 
    ```bash
    git clone https://github.com/sunnyolive108/FollowTheWhiteRabbit.git
-3. install the necessary modules
-4. navigate to the repository on your machine & run the program
+3. Install the necessary modules
+4. Navigate to the repository on your machine & run the program
    ```bash
    python Alpha1.py
       
