@@ -26,7 +26,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 3. install the necessary modules
 4. navigate to the repository on your machine & run the program
    ```bash
-   python a1.2PATCH.py
+   python Alpha1.py
       
 ## Contribution
    feel free to contribute! Just submit a pull request with your changes.
