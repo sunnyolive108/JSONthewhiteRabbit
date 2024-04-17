@@ -4,7 +4,7 @@ Willkommmen beim RabbitMQ Processing Program
 *-*-*-*-*-*-*-JSONthewhiteRabbit*-*-*-*-*-*-*  
 
 
-Um diesen Hasen anständig zu jagen, holt man es sich folgende dependencies:
+Um den Hasen anständig zu jagen, holt man es sich folgende dependencies:
 
 PyQt5: für die UI
 # pip install PyQt5
@@ -13,7 +13,7 @@ pika: für RabbitMQ
 # pip install pika
 
 Du benötigst noch die img/rabbitmq.png im selben Ordner wie die .py
-anders wird das nicht laufen...
+ohne den, wird's nich geh'n
 
 
 Eingabe:
