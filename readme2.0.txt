@@ -37,3 +37,9 @@ Note:
 
 Weiß was Du tust und frag bevor Du's nicht tust
 Happy JSON!
+
+
+PSSssst...  words = [word for word in exception_message.split() if word.isalpha()]
+            exception_part = "".join(words)[:21]   
+            exception_part = exception_part.lower() 
+            logger.info("Exception Part: %s", exception_part)
