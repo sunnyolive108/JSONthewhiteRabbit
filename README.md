@@ -26,7 +26,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 3. Install the necessary modules
 4. Navigate to the repository on your machine & run the program
    ```bash
-   python jsonfromrabbit.py
+   python jsonthewhiterabbit.py
       
 ## Contribution
    feel free to contribute! Just submit a pull request with your changes.
