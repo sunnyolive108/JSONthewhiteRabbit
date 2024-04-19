@@ -1,0 +1,64 @@
+{
+    "packageResults": [
+        {
+            "package": {
+                "contentDescription": null,
+                "height": 100.0,
+                "length": 293.0,
+                "packageNumber": "1",
+                "productCode": "9",
+                "reference1": "98582625",
+                "reference2": "LS06014860",
+                "reference3": "21BAAKSKXB",
+                "reference4": "",
+                "shippingMethod": "0",
+                "vLogHandingUnitType": "KT",
+                "weight": 0.26,
+                "width": 193.0
+            },
+            "packageBarcode": "00340434681063206105",
+            "packageError": "Fehler beim Speichern der Sendung. (126000029)\nKritischer Fehler beim Speichern der Sendung aufgetreten.",
+            "packageRoutingId": "40327685111+99000900084009",
+            "packageStatus": "999",
+            "pdfShippingLabelPath": "\\\\SVRZAAPP116\\borc3_loxxitone_server$\\LabelArchiv\\701\\2024\\04\\19\\DPI_701_98582625_21BAAKSKXB_00340434681063206105.pdf",
+            "zplShippingLabelData": "^XA\n^LRN\n~DG001.GRF,113664,148,\n,::::::::::::::::::::::::::::L07FtHF,L060tG03,::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::L07FtHF,,:::::::::::::::::::\n^FT0,1184^XG001.GRF,1,1^FS\n^FT375,256^A0N,104,103^FDError Label^FS\n^FT400,362^A0N,42,43^FDCaution errors occured^FS\n^FO52,527^FB1050,40,,L^A0N,33,36^FDFehler beim Speichern der Sendung. (126000029)\\&Kritischer Fehler beim Speichern der Sendung aufgetreten.^FS\n^FO20,1200^GB800,1500,2000,W,0^FS\n^BY6,3,129^FT116,1613^BCN,,N,N,,A\n^FD>;98582625^FS\n~DG000.GRF,75776,148,\n,L07FtGFC,L040tG0C,::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::L07FtGFC,,:::::::::::::::::::\n^FT0,1728^XG000.GRF,1,1^FS\n^FO128,1287^FB930,1,,C^A0N,42,43^FDDHL Paket National (DPI) - 19.04.2024^FS\n^FT370,1665^A0N,42,43^FDReferenz Nr: 98582625^FS\n^FO128,1408^FB930,1,,C^A0N,42,43^FD701 - dm DHL^FS\n^PQ1,0,1,Y\n^XZ",
+            "zplShippingLabelPath": "\\\\SVRZAAPP116\\borc3_loxxitone_server$\\ZplLabelArchiv\\701\\2024\\04\\19\\21BAAKSKXB.Prn"
+        }
+    ],
+    "shipmentResult": {
+        "shipment": {
+            "additionalInformation1": "03.05.2024",
+            "additionalInformation2": "18.04.2024",
+            "contactPersonEmail": "andreawisgott@web.de",
+            "contactPersonPhoneNumber": null,
+            "deliveryAddress": {
+                "addressLine1": "Katharinenweg",
+                "addressLine2": null,
+                "city": "Adelschlag",
+                "countryIsoA2": "DE",
+                "countryIsoN": "276",
+                "houseNumber": "9",
+                "name1": "Andrea  Wisgott",
+                "name2": null,
+                "zipCode": "85111"
+            },
+            "deliveryDate": "04/18/2024 00:00:00",
+            "incoterms": "Leer",
+            "packageCount": "1",
+            "packageStationCustomerNumber": null,
+            "parcelShopId": null,
+            "reference1": "98582625",
+            "reference2": "98484501",
+            "reference3": "4000284251",
+            "reference4": "553485762",
+            "vLogCarrier": "DPI",
+            "vLogClientNumber": "701",
+            "workspace": "CentralLabelling"
+        },
+        "shipmentError": "",
+        "shipmentStatus": "800"
+    },
+    "correlationId": "fa786121-5f14-4a47-abd4-9670cc00018f",
+    "dateCreated": "2024-04-19T02:01:03.3792075+02:00",
+    "guid": "fa786121-5f14-4a47-abd4-9670cc00018f"
+}

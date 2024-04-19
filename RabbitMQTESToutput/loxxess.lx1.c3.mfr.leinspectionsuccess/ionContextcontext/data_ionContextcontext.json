@@ -1,0 +1,15 @@
+{
+    "Source": "WEPAS01",
+    "Destination": "DLR0801",
+    "MovementType": "Storage",
+    "IdOrderWmsHead": "TO-Demand_dm_Oksana Shvaliuk",
+    "PacketNumber": null,
+    "IdOrderWms": 28575415,
+    "StoragePlace": "KONRT01",
+    "Weight": 0,
+    "HandlingUnitBarcode": "R100142496",
+    "RecordType": "LeInspectionSuccess",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-18T21:27:04.8988381+02:00",
+    "Guid": "9fc8f48b-dded-4e26-acf7-5d26998743c5"
+}

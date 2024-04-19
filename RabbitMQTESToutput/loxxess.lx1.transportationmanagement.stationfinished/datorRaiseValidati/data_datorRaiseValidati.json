@@ -1,0 +1,37 @@
+{
+    "station": "BHPS143",
+    "transportOrderProcessReference": "pick-LS05989912-001",
+    "correlationId": "7bf947fb-0a03-493e-8551-d00e74a4eadd",
+    "dateCreated": "2024-04-18T17:23:57.7011993+02:00",
+    "guid": "7bf947fb-0a03-493e-8551-d00e74a4eadd"
+}{
+    "station": "BHPS143",
+    "transportOrderProcessReference": "pick-LS05995982-001",
+    "correlationId": "26706fbd-0955-459b-9caa-53df7ee4f059",
+    "dateCreated": "2024-04-19T02:06:54.1459269+02:00",
+    "guid": "26706fbd-0955-459b-9caa-53df7ee4f059"
+}{
+    "station": "BHGS101",
+    "transportOrderProcessReference": "pick-LS06004122-002",
+    "correlationId": "64e99dba-0b4c-4df8-86d7-f066e0718c25",
+    "dateCreated": "2024-04-19T04:33:02.0616221+02:00",
+    "guid": "64e99dba-0b4c-4df8-86d7-f066e0718c25"
+}{
+    "station": "BHGS112",
+    "transportOrderProcessReference": "pick-LS06014801-001",
+    "correlationId": "d4ada9f3-1da1-4002-8643-449ef8df8313",
+    "dateCreated": "2024-04-19T08:11:37.9604101+02:00",
+    "guid": "d4ada9f3-1da1-4002-8643-449ef8df8313"
+}{
+    "station": "BHPS143",
+    "transportOrderProcessReference": "pick-LS06003634-001",
+    "correlationId": "c506106c-0771-44e3-b903-31ea8cc4b488",
+    "dateCreated": "2024-04-19T09:01:09.9455009+02:00",
+    "guid": "c506106c-0771-44e3-b903-31ea8cc4b488"
+}{
+    "station": "BHGS113",
+    "transportOrderProcessReference": "pick-LS06021489-001",
+    "correlationId": "efdd6f67-fdc2-43eb-a79c-e41e49148c7c",
+    "dateCreated": "2024-04-19T12:07:45.2616045+02:00",
+    "guid": "efdd6f67-fdc2-43eb-a79c-e41e49148c7c"
+}

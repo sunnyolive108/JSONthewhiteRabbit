@@ -1,0 +1,133 @@
+{
+    "StoragePlace": "NIOVB01",
+    "Weight": 13400,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "56CAACKMZF",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T01:34:42.9013657+02:00",
+    "Guid": "8d512fd2-036d-4c65-9860-23c32ac18b79"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 880,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "23BAAFEXRG",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T01:46:18.8986037+02:00",
+    "Guid": "48108e92-3321-4e99-ab17-b608cc7a6cd9"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 13740,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "56CAACKOVI",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T02:04:10.944946+02:00",
+    "Guid": "0859cf3b-2a64-43f5-b6ce-bb055432e7a0"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 880,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "23BAAFEXUI",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T03:19:38.8974847+02:00",
+    "Guid": "d7b3cdb7-7392-45e2-a34f-748e5675a6d3"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 5660,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "30DAABNVXK",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T06:05:56.910345+02:00",
+    "Guid": "f3a6047c-5ff7-42f7-a29f-8f09a7c44076"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 8600,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "36EAABFFKH",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T07:54:00.9041904+02:00",
+    "Guid": "302f2bd3-2641-4656-b1e4-5b2e7b9c4e72"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 15720,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "80AAAEANGM",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T09:10:02.8987119+02:00",
+    "Guid": "f7862dec-201c-478d-892a-c9e6c6cf5ea0"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 11620,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "65CAACYLNQ",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T09:13:40.8988958+02:00",
+    "Guid": "b579dbbd-8c2d-4d58-8207-680a4918ab89"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 15720,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "80AAAEANGM",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T09:14:30.9078452+02:00",
+    "Guid": "37ecaa12-7198-4969-94db-862502665ada"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 17560,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "70AAABHHSP",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T11:24:42.9066593+02:00",
+    "Guid": "fe1c80e7-60f1-4632-862b-1b20032814f8"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 13780,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "65CAACYLYB",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T13:42:30.9147644+02:00",
+    "Guid": "de2765d5-0d6b-41b2-b936-2328a0a7635b"
+}{
+    "StoragePlace": "NIOVB01",
+    "Weight": 11220,
+    "HasError": true,
+    "Errors": "NoTransport",
+    "IdOrderWms": null,
+    "HandlingUnitBarcode": "56CAACKRXH",
+    "RecordType": "ArrivalNotification",
+    "StorageArea": "BorC3-01",
+    "DateCreated": "2024-04-19T14:56:42.9027207+02:00",
+    "Guid": "a11ce64f-861c-4c9c-bd15-00313fe0fcfd"
+}

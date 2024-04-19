@@ -1,0 +1,12 @@
+{
+    "client": 27,
+    "orderPickingProcessPositionId": 307458964,
+    "pickingLoadingDeviceBarcode": "A300005709",
+    "pickingLoadingDeviceId": 819624481,
+    "pickSoldModificationIds": [
+        1973170804
+    ],
+    "correlationId": "14aa89be-6c06-4d0d-af4e-855406ac8d69",
+    "dateCreated": "2024-04-19T15:28:37.6363114+02:00",
+    "guid": "14aa89be-6c06-4d0d-af4e-855406ac8d69"
+}
