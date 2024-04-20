@@ -63,7 +63,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    Restart-Service rabbitmq-server
 
 #### in need of Chocolatey?
-         ```bash
+      ```bash
       Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 ### Access Information
@@ -73,7 +73,7 @@ RabbitMQ management plugin listens on port 15672.
          Default credentials for the management interface are
          Username: guest
          Password: guest
---   adapt your config file as your needs see fit
+####   adapt your config file as your needs see fit
 ---
 
 ## Contribution
