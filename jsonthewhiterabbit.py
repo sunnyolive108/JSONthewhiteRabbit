@@ -22,7 +22,7 @@ def interpret_json(error_message, queue_name):
             logger.info("Exception: %s", exception_message)
 
             # The directory state
-            base_dir = os.path.join(os.path.dirname(__file__), "RabbitMQTESToutput")
+            base_dir = os.path.join(os.path.dirname(__file__), "RabbitMQoutput")
             queue_dir = os.path.join(base_dir, queue_name)
             exception_part = "".join(c for c in exception_message[-21:].strip() if c.isalpha())
             exception_dir = os.path.join(queue_dir, exception_part)
