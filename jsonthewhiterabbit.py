@@ -83,7 +83,7 @@ def main():
     logger.info("******************************************************")
     logger.info("*    ||||    RabbitMQ Processing Program     ====    *")
     logger.info("*           **           or            **            *")
-    logger.info("*            ***JSON the White Rabbit***             *")
+    logger.info("*            ***JSON the white Rabbit***             *")
     logger.info("******************************************************\n")
 
     while True:
