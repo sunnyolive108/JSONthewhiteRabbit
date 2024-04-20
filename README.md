@@ -19,11 +19,10 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 ## Usage
 
 1. Set up a RabbitMQ server
-   (see below for details)
-2. Clone the repository:
+2. Clone the repository
    ```bash
    git clone https://github.com/sunnyolive108/FollowTheWhiteRabbit.git
-3. Install the necessary modules (pika for RabbitMQ)
+3. Install the module pika for RabbitMQ
    ```bash
    pip install pika
 4. Navigate to the repository on your machine & run the program
