@@ -116,9 +116,9 @@ def main():
                     except pika.exceptions.AMQPConnectionError:
                         logger.error("Failed to establish connection to RabbitMQ. Retrying...")
 
-            start_listening()
-            if queue_input == "exit":
-                break
+        start_listening()
+        if queue_names == "exit":
+            break
             
         except KeyboardInterrupt:
             logger.info("hasin'forth...")
