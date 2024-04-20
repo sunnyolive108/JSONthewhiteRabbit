@@ -54,7 +54,7 @@ RabbitMQ management plugin listens on port 15672.
          Default credentials for the management interface are
          Username: guest
          Password: guest
---    adapt your config file as your needs see fit
+--   adapt your config file as your needs see fit
 ---
 
 ## Contribution
