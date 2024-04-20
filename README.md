@@ -32,6 +32,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    cd JSONthewhiteRabbit
    python3 jsonthewhiterabbit.py
+   
    python jsonthewhiterabbit.py
 
 
