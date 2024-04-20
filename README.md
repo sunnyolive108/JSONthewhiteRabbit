@@ -29,7 +29,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    git clone https://github.com/sunnyolive108/JSONthewhiteRabbit.git
 4. Navigate to the repository on your machine & run the program
    ```bash
-   python jsonthewhiterabbit.py
+   python3 jsonthewhiterabbit.py
 
 ## RabbitMQ Server Installation and Management
 
