@@ -21,6 +21,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 1. Set up a RabbitMQ server
       ```bash
       sudo service rabbitmq-server start
+      
       rabbitmq-server start
 2. Install the module pika for RabbitMQ
    ```bash
