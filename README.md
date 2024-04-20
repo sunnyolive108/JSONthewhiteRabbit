@@ -28,17 +28,35 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    python jsonthewhiterabbit.py
 
- RabbitMQ Server Installation and Management
+ # RabbitMQ Server Installation and Management
 
-## Installation
-dsfgdfg 
-## Install RabbitMQ Server
+### Installation
 
+1. Install RabbitMQ Server
    ```bash
    sudo apt-get update
    sudo apt-get install rabbitmq-server
 
-  
+2. Start RabbitMQ Server
+   ```bash
+   sudo service rabbitmq-server start
+
+3. Enabling Management Plugin (if not enabled by default)
+   ```bash
+   sudo rabbitmq-plugins enable rabbitmq_management
+   sudo service rabbitmq-server restart
+
+## Access Information
+RabbitMQ management plugin listens on port 15672.
+         http://localhost:15672
+
+         Default credentials for the management interface are
+         Username: guest
+         Password: guest
+---    ---  
+---
+
 ## Contribution
    feel free to contribute! Just submit a pull request with your changes.
-- Thank you :) Oliver
+Happy JSON!
+O :) Oliver
