@@ -27,7 +27,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    pip install pika
 4. Navigate to the repository on your machine & run the program
    ```bash
-   python jsonthewhiterabbitmq.py
+   python jsonthewhiterabbit.py
 
 ## RabbitMQ Server Installation and Management
 
