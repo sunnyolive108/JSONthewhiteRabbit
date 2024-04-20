@@ -77,6 +77,6 @@ RabbitMQ management plugin listens on port 15672.
 ---
 
 ## Contribution
-   feel free to contribute! Just submit a pull request with your changes.
+   feel free to contribute! Just submit and I'll have a look at it.
 #### Happy JSON!
 O :) Oliver
