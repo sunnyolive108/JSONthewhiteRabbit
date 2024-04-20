@@ -29,7 +29,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 3. Clone the repository
    ```bash
    git clone https://github.com/sunnyolive108/JSONthewhiteRabbit.git
-4. Navigate to the repository on your machine & run the program
+4. Navigate to the repository on your machine | run the program
    ```bash
    cd JSONthewhiteRabbit
    python3 jsonthewhiterabbit.py
