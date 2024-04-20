@@ -56,15 +56,15 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 
 3. Enabling Management Plugin (if not enabled by default)
    ```bash
-   sudo rabbitmq-plugins enable rabbitmq_management
+   rabbitmq-plugins enable rabbitmq_management
+
    sudo service rabbitmq-server restart
 
-   rabbitmq-plugins enable rabbitmq_management
    Restart-Service rabbitmq-server
 
-### in need of Chocolatey?
+#### in need of Chocolatey?
          ```bash
-         Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+      Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 ### Access Information
 RabbitMQ management plugin listens on port 15672.
