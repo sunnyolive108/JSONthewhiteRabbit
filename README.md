@@ -19,12 +19,14 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 ## Usage
 
 1. Set up a RabbitMQ server
-2. Clone the repository
-   ```bash
-   git clone https://github.com/sunnyolive108/JSONthewhiteRabbit.git
-3. Install the module pika for RabbitMQ
+      ```bash
+      sudo service rabbitmq-server start
+2. Install the module pika for RabbitMQ
    ```bash
    pip install pika
+3. Clone the repository
+   ```bash
+   git clone https://github.com/sunnyolive108/JSONthewhiteRabbit.git
 4. Navigate to the repository on your machine & run the program
    ```bash
    python jsonthewhiterabbit.py
