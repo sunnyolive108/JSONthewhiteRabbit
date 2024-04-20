@@ -31,31 +31,14 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
  RabbitMQ Server Installation and Management
 
 ## Installation
+dsfgdfg 
+## Install RabbitMQ Server
 
-### Install RabbitMQ Server
+   ```bash
+   sudo apt-get update
+   sudo apt-get install rabbitmq-server
 
-```bash
-sudo apt-get update
-sudo apt-get install rabbitmq-server
-
-## Start RabbitMQ Server
-```bash
-sudo service rabbitmq-server start
-
-## Enabling Management Plugin (if not enabled by default)
-```bash
-sudo rabbitmq-plugins enable rabbitmq_management
-sudo service rabbitmq-server restart
-
-## Access Information
-RabbitMQ management plugin listens on port 15672.
-http://localhost:15672
-
-Default credentials for the management interface are
-Username: guest
-Password: guest
----
-
+  
 ## Contribution
    feel free to contribute! Just submit a pull request with your changes.
 - Thank you :) Oliver
