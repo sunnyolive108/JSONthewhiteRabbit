@@ -1,8 +1,9 @@
-import logging
 import os
 import json
 import pika
+import logging
 import configparser
+import msvcrt
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(message)s')
@@ -117,12 +118,15 @@ def main():
                         logger.error("Failed to establish connection to RabbitMQ. Retrying...")
 
         start_listening()
-        if queue_names == "exit":
-            break
             
         except KeyboardInterrupt:
             logger.info("hasin'forth...")
             continue
+
+        except Exception as e:
+            if msvcrt.kbhit() and msvcrt.getch() == b'\x1b':
+                logger.info("Knock, knock, Neo...")
+                break
 
 if __name__ == "__main__":
     main()
