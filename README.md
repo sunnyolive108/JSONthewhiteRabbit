@@ -43,6 +43,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    sudo apt-get update
    sudo apt-get install rabbitmq-server
+
    choco install rabbitmq
 
 2. Start RabbitMQ Server
@@ -54,6 +55,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    sudo rabbitmq-plugins enable rabbitmq_management
    sudo service rabbitmq-server restart
+   
    rabbitmq-plugins enable rabbitmq_management
    Restart-Service rabbitmq-server
 
