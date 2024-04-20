@@ -21,6 +21,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 1. Set up a RabbitMQ server
       ```bash
       sudo service rabbitmq-server start
+      rabbitmq-server start
 2. Install the module pika for RabbitMQ
    ```bash
    pip install pika
@@ -29,7 +30,10 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    git clone https://github.com/sunnyolive108/JSONthewhiteRabbit.git
 4. Navigate to the repository on your machine & run the program
    ```bash
+   cd JSONthewhiteRabbit
    python3 jsonthewhiterabbit.py
+   python jsonthewhiterabbit.py
+
 
 ## RabbitMQ Server Installation and Management
 
