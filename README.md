@@ -21,7 +21,6 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 1. Set up a RabbitMQ server
       ```bash
       sudo service rabbitmq-server start
-      
       rabbitmq-server start
 2. Install the module pika for RabbitMQ
    ```bash
@@ -33,7 +32,6 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    cd JSONthewhiteRabbit
    python3 jsonthewhiterabbit.py
-   
    python jsonthewhiterabbit.py
 
 
@@ -45,21 +43,18 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    sudo apt-get update
    sudo apt-get install rabbitmq-server
-
    choco install rabbitmq
 
 2. Start RabbitMQ Server
    ```bash
    sudo service rabbitmq-server start
-
    Start-Service rabbitmq-server
 
 3. Enabling Management Plugin (if not enabled by default)
    ```bash
-   rabbitmq-plugins enable rabbitmq_management
-
+   sudo rabbitmq-plugins enable rabbitmq_management
    sudo service rabbitmq-server restart
-
+   rabbitmq-plugins enable rabbitmq_management
    Restart-Service rabbitmq-server
 
 #### in need of Chocolatey?
