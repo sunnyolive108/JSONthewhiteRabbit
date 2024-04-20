@@ -28,7 +28,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    ```bash
    python jsonthewhiterabbit.py
 
- # RabbitMQ Server Installation and Management
+## RabbitMQ Server Installation and Management
 
 ### Installation
 
@@ -46,7 +46,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
    sudo rabbitmq-plugins enable rabbitmq_management
    sudo service rabbitmq-server restart
 
-## Access Information
+### Access Information
 RabbitMQ management plugin listens on port 15672.
          http://localhost:15672
 
