@@ -3,7 +3,6 @@ import json
 import pika
 import logging
 import configparser
-import msvcrt
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(message)s')
@@ -91,7 +90,10 @@ def main():
         try:
             queue_input = input("Queues, comma-separated: ")
             queue_names = [queue.strip() for queue in queue_input.split(",")]
-
+        if queue_input == 'exit':
+            logger.info("The Matric has you... ")
+            break
+            
             # Function to start listening
             def start_listening():
                 for queue_name in queue_names:
@@ -117,16 +119,11 @@ def main():
                     except pika.exceptions.AMQPConnectionError:
                         logger.error("Failed to establish connection to RabbitMQ. Retrying...")
 
-        start_listening()
+            start_listening()
             
         except KeyboardInterrupt:
             logger.info("hasin'forth...")
             continue
-
-        except Exception as e:
-            if msvcrt.kbhit() and msvcrt.getch() == b'\x1b':
-                logger.info("Knock, knock, Neo...")
-                break
-
+        
 if __name__ == "__main__":
     main()
