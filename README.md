@@ -7,7 +7,7 @@ This program fetches messages from a RabbitMQ queue and processes them, writing 
 
 - Fetch messages from a RabbitMQ queue
 - Process messages using the `interpret_json` function
-- Write processed data into a file
+- Write processed data into a JSON file
 
 ## Future Ideas
 
